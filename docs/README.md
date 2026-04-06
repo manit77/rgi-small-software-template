@@ -7,24 +7,24 @@ A requirements management system with AI is intended to help users capture softw
 - Status: DRAFT
 - Version: v0.1.0
 - Priority: Normal
-- Published At: 2026-04-04T02:05:22.324Z
+- Published At: 2026-04-06T06:22:51.571Z
 
 ## Documents
 
 - [Project Vision](./000-Project-Vision.md)
 - [Global Objects](./001-Global-Objects.md)
-- [UIElements](./002-UIElements.md)
+- [Guidelines](./002-Guidelines.md)
 - [Theme](./003-Theme.md)
-- [Layout](./004-Layout.md)
-- [Login](./005-Login.md)
-- [PasswordRecovery](./006-PasswordRecovery.md)
-- [UserRegistration](./007-UserRegistration.md)
-- [Layout](./008-Layout.md)
-- [Dashboard](./009-Dashboard.md)
-- [ProjectDashboard](./010-ProjectDashboard.md)
-- [Settings](./011-Settings.md)
-- [Users](./012-Users.md)
-- [MyProfile](./013-MyProfile.md)
-- [Functional backlog](./014-Functional-backlog.md)
-- [Non\-functional requirements](./015-Non-functional-requirements.md)
-- [Scope outline](./016-Scope-outline.md)
+- [UIElements](./004-UIElements.md)
+- [Layout](./005-Layout.md)
+- [LoginPage](./006-LoginPage.md)
+- [PasswordRecoveryPage](./007-PasswordRecoveryPage.md)
+- [UserRegistrationPage](./008-UserRegistrationPage.md)
+- [Layout](./009-Layout.md)
+- [Dashboard](./010-Dashboard.md)
+- [ProjectDashboard](./011-ProjectDashboard.md)
+- [Settings](./012-Settings.md)
+- [Users](./013-Users.md)
+- [MyProfile](./014-MyProfile.md)
+- [Overview](./015-Overview.md)
+- [Schema](./016-Schema.md)

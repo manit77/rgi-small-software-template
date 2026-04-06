@@ -1,3 +1,0 @@
-# UserRegistration
-
-## User Registration
